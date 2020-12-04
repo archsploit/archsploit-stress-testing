@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Categories=Stress Testing;
+Exec=sh -c 'ufonet --help; $SHELL'
+Icon=/usr/share/icons/Archsploit/archsploit-default.png
+Name=Ufonet
+Terminal=true
+Type=Application

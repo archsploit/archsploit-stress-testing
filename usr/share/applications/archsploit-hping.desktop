@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Categories=Stress Testing;
+Exec=sh -c 'hping --help; $SHELL'
+Icon=/usr/share/icons/Archsploit/archsploit-default.png
+Name=Hping3
+Terminal=true
+Type=Application
